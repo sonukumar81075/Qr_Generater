@@ -12,7 +12,6 @@
     "framer-motion": "^11.11.0",
     "html-to-image": "^1.11.13",
     "html2canvas": "^1.4.1",
-    "qr-pdf-lab": "file:..",
     "qrcode": "^1.5.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
